@@ -61,7 +61,7 @@ To access and interact with the **Data Professional Survey Dashboard**, please f
 1. **Download the Repository:**
    - Use the following command to clone the repository:
      ```bash
-     git clone <repository URL>
+     git clone https://github.com/AHT2002/data_professional_survey_dashboard.git
      ```
    - Alternatively, download the repository as a `.zip` file and extract its contents.
 
